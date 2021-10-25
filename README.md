@@ -7,3 +7,7 @@ Lenguaje utilizado:
 
 Editor utilizado:
   NetBeans
+  
+Herramientas para conexion a Base de datos:
+  MYSQL server
+  Xampp Apache
